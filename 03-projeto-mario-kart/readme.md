@@ -101,3 +101,18 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+
+<b>Melhorias Implementadas:</b>
+
+
+
+
+
+<ul>
+    <li><input type="checkbox" id="extra-1-item" /><label for="extra-1-item">O CONFRONTO pode ser casco ou bomba. Sendo 🐢, o jogador perde 1 ponto, porém, se for 💣, perde 2 pontos.</label></li>
+    <li><input type="checkbox" id="extra-2-item" /><label for="extra-2-item">Os players são selecionados de forma aleatória.</label></li>
+</ul>
+
+
+
